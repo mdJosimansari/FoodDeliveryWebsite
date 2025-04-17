@@ -126,7 +126,7 @@ function Home() {
        
           <div className="w-full h-[80vh] flex justify-center items-center">
             <span className="text-red-400 flex items-center gap-2 font-semibold text-2xl">
-              No items in cart <BsEmojiTear />
+              No Items in cart <BsEmojiTear />
             </span>
           </div>
         )}
