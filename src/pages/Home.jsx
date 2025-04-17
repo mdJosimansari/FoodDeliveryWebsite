@@ -119,7 +119,7 @@ function Home() {
             </div>
 
             <button className="bg-red-400 w-[80%] h-[50px] mx-auto block rounded-md text-white font-semibold hover:bg-red-300 transition-all duration-300 ease-in-out mt-5 mb-5" onClick={()=>{toast.success("Order placed")}}>
-              Place order
+              Place Order
             </button>
           </>
         ) : (
